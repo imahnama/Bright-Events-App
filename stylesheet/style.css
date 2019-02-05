@@ -12,7 +12,7 @@ body{
 .title h1{
   margin: 0;
   padding: 0;
-  color: #262626;
+  color: #33FF77;
   text-transform: uppercase;
   font-size: 36px;
 }
@@ -81,5 +81,5 @@ body{
 }
 .formBox a{
   font-size: 12px;
-  
+
 }
