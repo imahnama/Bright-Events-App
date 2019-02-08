@@ -69,7 +69,7 @@ body{
   border-bottom: 2px solid #262626;
 }
 
-.formBox input[type="submit"]
+.button-click
 {
   border: none;
   outline: none;
